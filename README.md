@@ -1,16 +1,45 @@
 # hello_world
 
+## Nama : Farrel Muchammad Kafie
+## NIM  : 2341720176
+
 A new Flutter project.
 
-## Getting Started
+![Screenshot hello_world](images/01.png)
 
-This project is a starting point for a Flutter application.
+> Running project flutter baru "hello_world"
 
-A few resources to get you started if this is your first Flutter project:
+![Screenshot hello_world](images/02.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+> Menerapkan text_widget
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot hello_world](images/03.png)
+
+> Menampilkan gambar dari asset lokal menggunakan widget Image
+
+![Screenshot hello_world](images/04.png)
+
+> Implementasi widget Cupertino seperti tombol dan indikator loading.
+
+![Screenshot hello_world](images/05.png)
+
+> FAB
+Menampilkan FloatingActionButton pada layout aplikasi.
+
+![Screenshot hello_world](images/06.png)
+
+> Scaffold
+Penggunaan Scaffold sebagai struktur dasar aplikasi, termasuk AppBar dan BottomAppBar.
+
+![Screenshot hello_world](images/07.png)
+
+> Dialog
+Menampilkan dialog interaktif kepada pengguna.
+
+![Screenshot hello_world](images/08.png)
+
+> Implementasi TextField dan widget pemilihan seperti Checkbox atau Radio.
+
+![Screenshot hello_world](images/09.png)
+
+> Menampilkan pemilih tanggal dan waktu menggunakan widget bawaan Flutter.
